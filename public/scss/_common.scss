@@ -177,7 +177,10 @@ a:hover,a.text-dark:hover {
 .text-primary {
   color: $primary-color !important;
 }
-
+.bg-info{
+  background-color:#1b4965 !important ;
+  color: white !important;
+}
 .text-color {
   color: $text-color;
 }
