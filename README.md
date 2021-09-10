@@ -1,9 +1,2 @@
 # Blog de sante
-
-git tutorial
-https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia
-install npm + nodejs :windows
-https://www.youtube.com/watch?v=X-FPCwZFU_8&ab_channel=TechMeSpot
-steps to run app
-cmd cd /Blog
-node app.js
+The first Blog that i have ever implemented, if you are intrested is such a thing feel free to fork this project and adjust it to your needs.
